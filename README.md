@@ -17,4 +17,7 @@ Olá! Me chamo Davi Bassani e sou um desenvolvedor que gosta de trabalhar com Py
 - Chatbot para Telegram feito em python: https://github.com/DaviBassani/S.O.F.I.A..git
 
 ## Contato
-Se quiser entrar em contato comigo, pode falar comigo pelo instagram ou telegram! Instagram: ``@davilbassani``; telegram: ``DaviBassani``. Ficarei feliz em conversar com você!
+Se quiser entrar em contato comigo, pode falar comigo pelo instagram ou telegram! 
+Instagram: ``@davilbassani``; 
+Telegram: ``DaviBassani``. 
+Ficarei feliz em conversar com você!

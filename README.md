@@ -9,7 +9,7 @@ Olá! Me chamo Davi Bassani e sou um desenvolvedor que gosta de trabalhar com Py
 - Front-end (Flutter)
 - Back-end (Python)
 - RPA
-- Machine-Learning (básico)
+- Apps de E-Commerce
 
 ## Projetos
 - Chatbot para discord feito em python: https://github.com/DaviBassani/uni-gpt-discord-bot

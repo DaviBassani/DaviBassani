@@ -20,6 +20,6 @@ Olá! Me chamo Davi Bassani e sou um desenvolvedor que gosta de trabalhar com Py
 Se quiser entrar em contato, pode falar comigo pelo instagram ou telegram!
 
 - Instagram: ``@davilbassani``; 
-- Telegram: ``DaviBassani``. 
+- Telegram: ``@DaviBassani``. 
 
 Ficarei feliz em conversar com você!

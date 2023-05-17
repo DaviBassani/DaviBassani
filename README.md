@@ -16,6 +16,7 @@ Olá! Me chamo Davi Bassani e sou um desenvolvedor que gosta de trabalhar com Py
 - Chatbot para discord feito em python: https://github.com/DaviBassani/uni-gpt-discord-bot
 - Chatbot para Telegram feito em python: https://github.com/DaviBassani/S.O.F.I.A..git
 - TerminalGPT - acesse o chat gpt diretamente pelo seu terminal: https://github.com/DaviBassani/TerminalGPT.git
+- PyBird - Um FlappyBird simples, desenvolvido com python: https://github.com/DaviBassani/PyBird.git
 
 ## Contato
 Se quiser entrar em contato, pode falar comigo pelo instagram ou telegram!

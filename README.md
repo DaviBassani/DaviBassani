@@ -8,7 +8,7 @@ Olá! Me chamo Davi Bassani e sou um desenvolvedor que gosta de trabalhar com Py
 - Flutter
 - Dart
 - Front-end (Flutter)
-- Back-end (Python)
+- Back-end (Python e Flutter)
 - Firebase
 - RPA
 

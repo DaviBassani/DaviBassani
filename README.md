@@ -1,7 +1,7 @@
 # Davi Bassani
 
 ## Sobre mim
-Olá! Me chamo Davi Bassani e sou um desenvolvedor que gosta de trabalhar com Python e Flutter. Tenho 20 anos e trabalho com programação desde os 12 anos de idade. Atualmente tenho 5 anos de experiência estudando Python, 3 anos desde que comecei a programar em Flutter e trabalho profissionalmente com Javascript, React-Native, React, Next, Python e também com C#. Estou no sexto período da faculdade de Engenharia de Software.
+Olá! Me chamo Davi Bassani e sou um desenvolvedor que gosta de trabalhar com Python e Flutter. Tenho 20 anos e estudo programação desde os 12 anos de idade, onde comecei com Game Design. Atualmente tenho 5 anos de experiência com Python, 3 anos desde que comecei a programar em Flutter e trabalho profissionalmente com Javascript, React-Native, React, Next, Python e também com C#. Estou no sexto período da faculdade de Engenharia de Software.
 
 ## Habilidades
 - Python

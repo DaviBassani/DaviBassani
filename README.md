@@ -1,18 +1,19 @@
 # Davi Bassani
 
 ## Sobre mim
-Olá! Me chamo Davi Bassani e sou um desenvolvedor que gosta de trabalhar com Python e Flutter. Tenho 18 anos e trabalho com programação desde os 12 anos de idade. Atualmente tenho 3 anos de experiência estudando Python e 1 ano trabalhando com Flutter em projetos pessoais. Estou cursando o primeiro período de Engenharia de Software.
+Olá! Me chamo Davi Bassani e sou um desenvolvedor que gosta de trabalhar com Python e Flutter. Tenho 20 anos e trabalho com programação desde os 12 anos de idade. Atualmente tenho 5 anos de experiência estudando Python, 3 anos desde que comecei a programar em Flutter e trabalho profissionalmente com Javascript, React-Native, React, Next, Python e também com C#. Estou no sexto período da faculdade de Engenharia de Software.
 
 ## Habilidades
 - Python
 - Flutter
 - Dart
-- Front-end (Flutter)
-- Back-end (Python e Flutter)
+- Javascript
+- Next
+- C#
+- Java
 - Firebase
-- RPA
 
-## Projetos
+## Projetos de Código Aberto
 - Dashboard avançado usando streamlit: https://github.com/DaviBassani/Supermarket-Sales-Py-Graphs.git
 - Chatbot para discord feito em python: https://github.com/DaviBassani/uni-gpt-discord-bot
 - Chatbot para Telegram feito em python: https://github.com/DaviBassani/S.O.F.I.A..git
@@ -26,4 +27,4 @@ Se quiser entrar em contato, pode falar comigo pelo instagram ou telegram!
 - Instagram: ``@davilbassani``; 
 - Telegram: ``@DaviBassani``. 
 
-Ficarei feliz em conversar com você!
+Ficarei feliz em poder ser útil!
